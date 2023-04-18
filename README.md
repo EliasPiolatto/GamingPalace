@@ -36,7 +36,7 @@ El sitio web es un e-commerce que consiste en la venta de productos de hardware 
 
 -   JavaScipt
 -   HTML
--   Bootsrap
+-   Bootstrap
 -   Material UI
 -   React.js
 -   Redux
