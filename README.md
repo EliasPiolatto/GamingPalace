@@ -64,7 +64,7 @@ El sitio web es un e-commerce que consiste en la venta de productos de hardware 
 
 Para probar o ver el sitio web ingresa al siguiente enlace:
 
--   Para visitar el sitio web <a href="https://gaming-palace-frontend-j48dif1t4-eliaspiolatto.vercel.app//" target="_blank">click aca</a>.
+-   Para visitar el sitio web <a href="https://gaming-palace-frontend-nab8vut48-eliaspiolatto.vercel.app//" target="_blank">click aca</a>.
 
 
 ### Simulación como administrador:
